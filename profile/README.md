@@ -4,6 +4,6 @@ Goodlawyer is a startup on a mission to make lawyers more accessible. We connect
 
 [Get started](https://goodlawyer.ca/)
 
-## Get in touch!
+## Careers
 
 Interested in a career at Goodlawyer? Check out our open roles at [Goodlawyer Careers](https://goodlawyer.ca/careers)!
